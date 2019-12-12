@@ -8,7 +8,7 @@ marked.setOptions({
   },
   pedantic: false,
   gfm: true,
-  breaks: false,
+  breaks: true,
   sanitize: false,
   smartLists: true,
   smartypants: false,

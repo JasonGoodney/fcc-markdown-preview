@@ -1,7 +1,7 @@
 import React from 'react'
 import Editor from './components/Editor'
 import Preview from './components/Preview'
-import './App.css'
+import './App.scss'
 
 const App = () => {
 
